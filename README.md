@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markiodeb
-- 👀 I’m interested in Python, Django, GIS and AI.
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Python, Django, FastAPI, GIS and AI.
+- 🌱 I’m currently learning tools for Data Engineer.
 - 💞️ I’m looking to collaborate on GDG
 - 📫 How to reach me @markiodeb in twitter.
 <!---
